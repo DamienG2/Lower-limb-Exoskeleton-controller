@@ -2,8 +2,8 @@
 
 This project was done by Damien GUENERS as part of end of study internship supervised by Gijs Van Oort from the University of Twente.
 This is a simulation of a gait controller for a lower limb exoskeleton based on the Divergent Component of Motion.
-The SimMechanics body model is a modified version of M. Dekker model with 10 DoF.
-The controller use the Divergent Component of Motion from J. Englsberger.
+The SimMechanics body model is a modified version of M.Dekker model with 10 DoF.
+The controller uses the Divergent Component of Motion from J.Englsberger.
 
 Articles used for the project:
 - T.Koolen et al. Design of a Momentum-Based Control Framework and Application to the Humanoid Robot Atlas, 2016.
